@@ -1,3 +1,5 @@
-![D00cky — pinguim Tux, tecnologias e referências pessoais](assets/terminal.svg)
+# Gabriel O. Santos
+
+Java · Spring Boot · Python · PostgreSQL
 
 [BlogPosting](https://github.com/D00cky/BlogPosting) · [DexJava](https://github.com/D00cky/DexJava)
