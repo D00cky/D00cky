@@ -22,13 +22,13 @@
     <circle cx="68" cy="25" r="5" fill="#73d69e"/>
     <g font-family="'DejaVu Sans Mono', 'Liberation Mono', Consolas, monospace">
       <text x="600" y="30" fill="#8da79a" font-size="12" text-anchor="middle">gabriel@github: ~/D00cky</text>
-      <text x="52" y="102" fill="#73f6b3" font-size="16">❯ <tspan fill="#bfd0c6">./hello_world</tspan></text>
+      <text x="52" y="102" fill="#73f6b3" font-size="16">❯ <tspan fill="#bfd0c6">./hello_world --mode stealth</tspan></text>
       <text x="49" y="173" fill="#e5f2e9" font-size="49" font-weight="bold" letter-spacing="-1.5">Gabriel O. Santos<tspan fill="#73f6b3">_</tspan></text>
       <text x="52" y="211" fill="#73f6b3" font-size="19">@D00cky</text>
       <text x="52" y="257" fill="#b0c4b7" font-size="16">APIs, dados e código que resolve problemas.</text>
       <path d="M52 290H1148" stroke="#263c31"/>
       <circle cx="57" cy="320" r="4" fill="#73f6b3"/>
-      <text x="73" y="325" fill="#8da79a" font-size="12" letter-spacing="1">BUILD · LEARN · REPEAT</text>
+      <text x="73" y="325" fill="#8da79a" font-size="12" letter-spacing="1">OVER SOUL · VINLAND · CODEC</text>
       <text x="1148" y="325" fill="#5d7969" font-size="12" text-anchor="end">exit code: 0</text>
     </g>
     <g fill="none" stroke="#73f6b3" stroke-linecap="square">

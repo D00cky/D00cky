@@ -27,11 +27,16 @@ ferramentas Docker · Git · Linux
 | [BlogPosting](https://github.com/D00cky/BlogPosting) | API de blog com usuários, posts, comentários e migrações de banco. | Java · Spring Boot · PostgreSQL · Docker |
 | [DexJava](https://github.com/D00cky/DexJava) | Integração com a PokéAPI e persistência de Pokémon em banco relacional. | Java · Spring Boot · PostgreSQL |
 
-<br>
+### `~/savepoints`
+
+<p align="center">
+  <img src="assets/savepoints.svg" alt="Referências: Shaman King — Over Soul, espírito em sintonia. Vinland Saga — rumo a Vinland, construir além do conflito. Metal Gear Solid — Codec online, observar, planejar e executar." width="100%">
+</p>
 
 ```console
-gabriel@github:~$ git log --oneline -1
-aprendendo, construindo e melhorando — um commit de cada vez.
+gabriel@github:~$ codec --status
+[CONEXÃO ESTABELECIDA]
+Próxima missão: transformar ideias em código.
 ```
 
 <p align="center">
