@@ -7,25 +7,25 @@
 <text x="989" y="35" text-anchor="end" fill="#768390">bash</text>
 <path d="M24 53H996" stroke="#30363d"/>
 <g font-size="16" fill="#8b9aa5" xml:space="preserve">
-<text x="29" y="111">                   -`</text>
-<text x="29" y="131">                  .o+`</text>
-<text x="29" y="151">                 `ooo/</text>
-<text x="29" y="171">                `+oooo:</text>
-<text x="29" y="191">               `+oooooo:</text>
-<text x="29" y="211">               -+oooooo+:</text>
-<text x="29" y="231">             `/:-:++oooo+:</text>
-<text x="29" y="251">            `/++++/+++++++:</text>
-<text x="29" y="271">           `/++++++++++++++:</text>
-<text x="29" y="291">          `/+++ooooooooooooo/`</text>
-<text x="29" y="311">         ./ooosssso++osssssso+`</text>
-<text x="29" y="331">        .oossssso-````/ossssss+`</text>
-<text x="29" y="351">       -osssssso.      :ssssssso.</text>
-<text x="29" y="371">      :osssssss/        osssso+++.</text>
-<text x="29" y="391">     /ossssssss/        +ssssooo/-</text>
-<text x="29" y="411">   `/ossssso+/:-        -:/+osssso+-</text>
-<text x="29" y="431">  `+sso+:-`                 `.-/+oso:</text>
-<text x="29" y="451"> `++:.                           `-/+/</text>
-<text x="29" y="471"> .`                                 `/</text>
+<text y="111"><tspan x="211.4" textLength="19.2" lengthAdjust="spacingAndGlyphs">-`</tspan></text>
+<text y="131"><tspan x="201.8" textLength="38.4" lengthAdjust="spacingAndGlyphs">.o+`</tspan></text>
+<text y="151"><tspan x="192.2" textLength="48" lengthAdjust="spacingAndGlyphs">`ooo/</tspan></text>
+<text y="171"><tspan x="182.6" textLength="67.2" lengthAdjust="spacingAndGlyphs">`+oooo:</tspan></text>
+<text y="191"><tspan x="173" textLength="86.4" lengthAdjust="spacingAndGlyphs">`+oooooo:</tspan></text>
+<text y="211"><tspan x="173" textLength="96" lengthAdjust="spacingAndGlyphs">-+oooooo+:</tspan></text>
+<text y="231"><tspan x="153.8" textLength="124.8" lengthAdjust="spacingAndGlyphs">`/:-:++oooo+:</tspan></text>
+<text y="251"><tspan x="144.2" textLength="144" lengthAdjust="spacingAndGlyphs">`/++++/+++++++:</tspan></text>
+<text y="271"><tspan x="134.6" textLength="163.2" lengthAdjust="spacingAndGlyphs">`/++++++++++++++:</tspan></text>
+<text y="291"><tspan x="125" textLength="192" lengthAdjust="spacingAndGlyphs">`/+++ooooooooooooo/`</tspan></text>
+<text y="311"><tspan x="115.4" textLength="211.2" lengthAdjust="spacingAndGlyphs">./ooosssso++osssssso+`</tspan></text>
+<text y="331"><tspan x="105.8" textLength="230.4" lengthAdjust="spacingAndGlyphs">.oossssso-````/ossssss+`</tspan></text>
+<text y="351"><tspan x="96.2" textLength="96" lengthAdjust="spacingAndGlyphs">-osssssso.</tspan><tspan x="249.8" textLength="96" lengthAdjust="spacingAndGlyphs">:ssssssso.</tspan></text>
+<text y="371"><tspan x="86.6" textLength="96" lengthAdjust="spacingAndGlyphs">:osssssss/</tspan><tspan x="259.4" textLength="96" lengthAdjust="spacingAndGlyphs">osssso+++.</tspan></text>
+<text y="391"><tspan x="77" textLength="105.6" lengthAdjust="spacingAndGlyphs">/ossssssss/</tspan><tspan x="259.4" textLength="96" lengthAdjust="spacingAndGlyphs">+ssssooo/-</tspan></text>
+<text y="411"><tspan x="57.8" textLength="124.8" lengthAdjust="spacingAndGlyphs">`/ossssso+/:-</tspan><tspan x="259.4" textLength="115.2" lengthAdjust="spacingAndGlyphs">-:/+osssso+-</tspan></text>
+<text y="431"><tspan x="48.2" textLength="86.4" lengthAdjust="spacingAndGlyphs">`+sso+:-`</tspan><tspan x="297.8" textLength="86.4" lengthAdjust="spacingAndGlyphs">`.-/+oso:</tspan></text>
+<text y="451"><tspan x="38.6" textLength="48" lengthAdjust="spacingAndGlyphs">`++:.</tspan><tspan x="345.8" textLength="48" lengthAdjust="spacingAndGlyphs">`-/+/</tspan></text>
+<text y="471"><tspan x="38.6" textLength="19.2" lengthAdjust="spacingAndGlyphs">.`</tspan><tspan x="374.6" textLength="19.2" lengthAdjust="spacingAndGlyphs">`/</tspan></text>
 </g>
 <text x="482" y="95" fill="#adbac7">D00cky<tspan fill="#768390">@</tspan>github</text>
 <text x="482" y="116" fill="#54616d">──────────────────────────────────────────────────</text>
