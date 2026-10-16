@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Gabriel O. Santos — D00cky</title>
+  <desc id="desc">Janela de terminal escura com texto verde: Gabriel O. Santos, D00cky. APIs, dados e código que resolve problemas.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111c18"/>
+      <stop offset="0.6" stop-color="#0b1210"/>
+      <stop offset="1" stop-color="#101917"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#73f6b3" stroke-opacity="0.035"/>
+    </pattern>
+    <clipPath id="window"><rect x="1" y="1" width="1198" height="358" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#window)">
+    <rect width="1200" height="360" fill="url(#background)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <path d="M0 49H1200" stroke="#263c31"/>
+    <rect width="1200" height="49" fill="#142019"/>
+    <circle cx="28" cy="25" r="5" fill="#f07878"/>
+    <circle cx="48" cy="25" r="5" fill="#e8c478"/>
+    <circle cx="68" cy="25" r="5" fill="#73d69e"/>
+    <g font-family="'DejaVu Sans Mono', 'Liberation Mono', Consolas, monospace">
+      <text x="600" y="30" fill="#8da79a" font-size="12" text-anchor="middle">gabriel@github: ~/D00cky</text>
+      <text x="52" y="102" fill="#73f6b3" font-size="16">❯ <tspan fill="#bfd0c6">./hello_world</tspan></text>
+      <text x="49" y="173" fill="#e5f2e9" font-size="49" font-weight="bold" letter-spacing="-1.5">Gabriel O. Santos<tspan fill="#73f6b3">_</tspan></text>
+      <text x="52" y="211" fill="#73f6b3" font-size="19">@D00cky</text>
+      <text x="52" y="257" fill="#b0c4b7" font-size="16">APIs, dados e código que resolve problemas.</text>
+      <path d="M52 290H1148" stroke="#263c31"/>
+      <circle cx="57" cy="320" r="4" fill="#73f6b3"/>
+      <text x="73" y="325" fill="#8da79a" font-size="12" letter-spacing="1">BUILD · LEARN · REPEAT</text>
+      <text x="1148" y="325" fill="#5d7969" font-size="12" text-anchor="end">exit code: 0</text>
+    </g>
+    <g fill="none" stroke="#73f6b3" stroke-linecap="square">
+      <path d="M1014 123L1055 159L1014 195" stroke-width="6" opacity="0.65"/>
+      <path d="M1075 197H1118" stroke-width="6" opacity="0.65"/>
+      <path d="M968 91H1127M968 91V228M1127 91V228M968 228H1127" stroke-width="1" opacity="0.13"/>
+      <path d="M956 109H968M956 210H968M1127 109H1139M1127 210H1139" stroke-width="1" opacity="0.25"/>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="16" fill="none" stroke="#2a4435"/>
+</svg>
